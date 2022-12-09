@@ -1,2 +1,2 @@
 # CAPSTONE
-Object recognition and Video Analyser
+Object recognition and Video Analyser for the visually impaired
